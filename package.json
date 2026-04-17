@@ -1,0 +1,9 @@
+{
+  "name": "sitecheck-legal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MVP local de SiteCheck Legal, audit automatisé des signaux légaux visibles d'un site web.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
